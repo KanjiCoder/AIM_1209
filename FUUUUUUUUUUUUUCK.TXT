@@ -1,0 +1,16 @@
+
+    Looks like I was looking at a __OLD__ version of
+    the engine when I did my code review, because 
+    the engine does __NOT__ actually run because
+    of an error.
+
+    You will see message :
+
+        _READ_NOT_FLEX_1007_
+
+    Which means that the function is being called
+    with an object it does not recognize.
+
+
+        Read Not Flex , as in , the function takes
+        parameters for READABILITY __NOT__ FLEXIBILITY .
